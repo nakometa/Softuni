@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Cinema", "01.Cinema\01.Cinema.csproj", "{0147119E-275F-4162-8EF8-9CB8A1B7DE31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Cinema", "01.Cinema\01.Cinema.csproj", "{0147119E-275F-4162-8EF8-9CB8A1B7DE31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SummerOutfit", "02.SummerOutfit\02.SummerOutfit.csproj", "{2754AA97-4933-4A11-9D1B-526C13A5B6F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SummerOutfit", "02.SummerOutfit\02.SummerOutfit.csproj", "{2754AA97-4933-4A11-9D1B-526C13A5B6F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NewHouse", "03.NewHouse\03.NewHouse.csproj", "{52F87B79-F6D5-4DEB-A28E-A9E17F850A8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.NewHouse", "03.NewHouse\03.NewHouse.csproj", "{52F87B79-F6D5-4DEB-A28E-A9E17F850A8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FishingBoat", "04.FishingBoat\04.FishingBoat.csproj", "{75AE9253-8E7D-42CD-BBD5-347C4FFDCB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FishingBoat", "04.FishingBoat\04.FishingBoat.csproj", "{75AE9253-8E7D-42CD-BBD5-347C4FFDCB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Journey", "05.Journey\05.Journey.csproj", "{3E140650-DAAB-4B72-9E31-43DD0A8E7B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.OperationsBetweenNumbers", "06.OperationsBetweenNumbers\06.OperationsBetweenNumbers.csproj", "{0484708D-1D8A-4002-9A9E-3F646DCA5A9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{75AE9253-8E7D-42CD-BBD5-347C4FFDCB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75AE9253-8E7D-42CD-BBD5-347C4FFDCB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75AE9253-8E7D-42CD-BBD5-347C4FFDCB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E140650-DAAB-4B72-9E31-43DD0A8E7B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E140650-DAAB-4B72-9E31-43DD0A8E7B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E140650-DAAB-4B72-9E31-43DD0A8E7B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E140650-DAAB-4B72-9E31-43DD0A8E7B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0484708D-1D8A-4002-9A9E-3F646DCA5A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0484708D-1D8A-4002-9A9E-3F646DCA5A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0484708D-1D8A-4002-9A9E-3F646DCA5A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0484708D-1D8A-4002-9A9E-3F646DCA5A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
