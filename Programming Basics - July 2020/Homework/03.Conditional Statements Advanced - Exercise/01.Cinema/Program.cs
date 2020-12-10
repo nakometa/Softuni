@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _01.Cinema
 {
@@ -6,26 +8,33 @@ namespace _01.Cinema
     {
         static void Main(string[] args)
         {
-            string porjectionType = Console.ReadLine();
-            int rows = int.Parse(Console.ReadLine());
-            int columns = int.Parse(Console.ReadLine());
+            List<int> input = Console.ReadLine().Split().Select(int.Parse).ToList();
+            string[] cmdArgs = Console.ReadLine().Split();
+            
+            while (cmdArgs[0] != "end")
+            {
+                string command = cmdArgs[0];
+                string element = cmdArgs[1];
 
-            double roomLength = rows * columns;
-            double income = 0;
-            if (porjectionType == "Premiere")
-            {
-                income += roomLength * 12;
-            }
-            else if (porjectionType == "Normal")
-            {
-                income += roomLength * 7.5;
-            }
-            else
-            {
-                income += roomLength * 5;
+                switch (command)
+                {
+                    case "Delete":
+                        for (int i = 0; i < input.Count; i++)
+                        {
+                            if (input[i] == int.Parse(element))
+                            {
+                                input.RemoveAt(i);
+                            }
+                        }
+                        break;
+                    case "Insert":
+                        input.Insert(int.Parse(cmdArgs[2]), int.Parse(element));
+                        break;
+                }
+                cmdArgs = Console.ReadLine().Split();
             }
 
-            Console.WriteLine($"{income:F2} leva");
+            Console.WriteLine(String.Join(" ", input));
         }
     }
 }
