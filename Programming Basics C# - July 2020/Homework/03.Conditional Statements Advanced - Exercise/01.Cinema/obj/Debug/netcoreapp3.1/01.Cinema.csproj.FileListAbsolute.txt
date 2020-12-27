@@ -1,0 +1,13 @@
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.exe
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.deps.json
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.json
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.runtimeconfig.dev.json
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.dll
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\netcoreapp3.1\01.Cinema.pdb
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csprojAssemblyReference.cache
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfoInputs.cache
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.AssemblyInfo.cs
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.csproj.CoreCompileInputs.cache
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.dll
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.pdb
+C:\github\Softuni\Programming Basics - July 2020\Homework\03.Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\netcoreapp3.1\01.Cinema.genruntimeconfig.cache

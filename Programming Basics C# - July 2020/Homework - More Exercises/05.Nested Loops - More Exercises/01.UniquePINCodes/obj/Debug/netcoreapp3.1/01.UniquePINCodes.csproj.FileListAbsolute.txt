@@ -1,0 +1,13 @@
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.exe
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.deps.json
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.runtimeconfig.json
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.runtimeconfig.dev.json
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.dll
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.pdb
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.csprojAssemblyReference.cache
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.AssemblyInfo.cs
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.dll
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.pdb
+C:\Users\hanss\source\repos\05.Nested Loops - More Exercises\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.genruntimeconfig.cache
