@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.exe
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.deps.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.runtimeconfig.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.genruntimeconfig.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.csprojAssemblyReference.cache

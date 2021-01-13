@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.exe
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.deps.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.runtimeconfig.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Lab\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.genruntimeconfig.cache
