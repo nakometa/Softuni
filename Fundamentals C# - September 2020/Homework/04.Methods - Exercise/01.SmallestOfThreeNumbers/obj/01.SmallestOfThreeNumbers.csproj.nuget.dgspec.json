@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj": {}
+    "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj": {
+    "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj",
+        "projectUniqueName": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj",
         "projectName": "01.SmallestOfThreeNumbers",
-        "projectPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj",
+        "projectPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\01.SmallestOfThreeNumbers.csproj",
         "packagesPath": "C:\\Users\\John Doe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\obj\\",
+        "outputPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\01.SmallestOfThreeNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\John Doe\\AppData\\Roaming\\NuGet\\NuGet.Config",

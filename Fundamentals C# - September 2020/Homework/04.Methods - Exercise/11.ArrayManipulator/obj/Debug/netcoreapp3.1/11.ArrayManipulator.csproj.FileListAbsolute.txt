@@ -1,0 +1,13 @@
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.exe
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.deps.json
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.runtimeconfig.json
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.runtimeconfig.dev.json
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.dll
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.pdb
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.csprojAssemblyReference.cache
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.AssemblyInfoInputs.cache
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.AssemblyInfo.cs
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.dll
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.pdb
+E:\github\Fundamentals C# - September 2020\Homework\04.Methods - Exercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.genruntimeconfig.cache

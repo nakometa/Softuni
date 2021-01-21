@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\06.MiddleCharacters\\06.MiddleCharacters.csproj",
+      "projectUniqueName": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\06.MiddleCharacters\\06.MiddleCharacters.csproj",
       "projectName": "06.MiddleCharacters",
-      "projectPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\06.MiddleCharacters\\06.MiddleCharacters.csproj",
+      "projectPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\06.MiddleCharacters\\06.MiddleCharacters.csproj",
       "packagesPath": "C:\\Users\\John Doe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\06.MiddleCharacters\\obj\\",
+      "outputPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\06.MiddleCharacters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\John Doe\\AppData\\Roaming\\NuGet\\NuGet.Config",

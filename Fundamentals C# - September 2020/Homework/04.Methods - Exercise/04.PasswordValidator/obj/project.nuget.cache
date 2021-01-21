@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vC3KlqMd41t2t8JiAuXQlTP7nlV3pcK0/pmCTvdKAidME1f/46tism/cDro3fqzW/T/yaMyi7ESA6torwei3A==",
+  "dgSpecHash": "v5kXYWgldJljmghuUBh9E05XLo0mHVnDrMpuJEfhObVfl5zmjdvj0gIXao5ipMGH1M55SN68oKTjP86AWV4PnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
+  "projectFilePath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

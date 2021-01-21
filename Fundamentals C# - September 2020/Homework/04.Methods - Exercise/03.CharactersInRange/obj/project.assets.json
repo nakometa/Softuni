@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\03.CharactersInRange\\03.CharactersInRange.csproj",
+      "projectUniqueName": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\03.CharactersInRange\\03.CharactersInRange.csproj",
       "projectName": "03.CharactersInRange",
-      "projectPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\03.CharactersInRange\\03.CharactersInRange.csproj",
+      "projectPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\03.CharactersInRange\\03.CharactersInRange.csproj",
       "packagesPath": "C:\\Users\\John Doe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\03.CharactersInRange\\obj\\",
+      "outputPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\03.CharactersInRange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\John Doe\\AppData\\Roaming\\NuGet\\NuGet.Config",

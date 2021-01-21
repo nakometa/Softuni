@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
+      "projectUniqueName": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
       "projectName": "04.PasswordValidator",
-      "projectPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
+      "projectPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
       "packagesPath": "C:\\Users\\John Doe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\04.PasswordValidator\\obj\\",
+      "outputPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\04.PasswordValidator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\John Doe\\AppData\\Roaming\\NuGet\\NuGet.Config",

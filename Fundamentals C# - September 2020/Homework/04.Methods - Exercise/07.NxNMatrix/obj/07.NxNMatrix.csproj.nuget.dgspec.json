@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj": {}
+    "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj": {
+    "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj",
+        "projectUniqueName": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj",
         "projectName": "07.NxNMatrix",
-        "projectPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj",
+        "projectPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\07.NxNMatrix\\07.NxNMatrix.csproj",
         "packagesPath": "C:\\Users\\John Doe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Doe\\source\\repos\\04.Methods - Exercise\\07.NxNMatrix\\obj\\",
+        "outputPath": "E:\\github\\Fundamentals C# - September 2020\\Homework\\04.Methods - Exercise\\07.NxNMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\John Doe\\AppData\\Roaming\\NuGet\\NuGet.Config",
