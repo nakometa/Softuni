@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.exe
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.deps.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.runtimeconfig.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\netcoreapp3.1\11.KeyRevolver.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\netcoreapp3.1\11.KeyRevolver.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.exe
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.deps.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\netcoreapp3.1\05.FashionBoutique.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.exe
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.deps.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\John Doe\source\repos\Stacks and Queues - Exercise\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.genruntimeconfig.cache
