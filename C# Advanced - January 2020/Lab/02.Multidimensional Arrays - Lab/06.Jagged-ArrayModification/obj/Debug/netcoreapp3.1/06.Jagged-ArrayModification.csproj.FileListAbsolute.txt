@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.exe
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.deps.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.runtimeconfig.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.genruntimeconfig.cache

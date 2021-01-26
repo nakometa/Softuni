@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.exe
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.deps.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.runtimeconfig.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\netcoreapp3.1\02.SumMatrixColumns.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\netcoreapp3.1\02.SumMatrixColumns.genruntimeconfig.cache

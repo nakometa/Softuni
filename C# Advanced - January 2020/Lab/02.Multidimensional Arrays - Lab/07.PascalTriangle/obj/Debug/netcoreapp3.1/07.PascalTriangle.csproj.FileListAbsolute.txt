@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.exe
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.deps.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.genruntimeconfig.cache

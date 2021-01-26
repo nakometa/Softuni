@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.exe
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.deps.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.genruntimeconfig.cache

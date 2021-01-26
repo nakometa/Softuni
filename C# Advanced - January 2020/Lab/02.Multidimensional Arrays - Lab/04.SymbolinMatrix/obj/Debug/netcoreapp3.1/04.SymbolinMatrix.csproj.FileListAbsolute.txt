@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\bin\Debug\netcoreapp3.1\04.SymbolinMatrix.exe
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\bin\Debug\netcoreapp3.1\04.SymbolinMatrix.deps.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\bin\Debug\netcoreapp3.1\04.SymbolinMatrix.runtimeconfig.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\bin\Debug\netcoreapp3.1\04.SymbolinMatrix.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\bin\Debug\netcoreapp3.1\04.SymbolinMatrix.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\bin\Debug\netcoreapp3.1\04.SymbolinMatrix.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.genruntimeconfig.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Lab\04.SymbolinMatrix\obj\Debug\netcoreapp3.1\04.SymbolinMatrix.csprojAssemblyReference.cache
