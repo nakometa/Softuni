@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.exe
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.deps.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.runtimeconfig.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.dll
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.pdb
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.genruntimeconfig.cache
+C:\Users\John Doe\source\repos\Multidimensional Arrays - Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.csprojAssemblyReference.cache
