@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.exe
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.deps.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.runtimeconfig.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\bin\Debug\netcoreapp3.1\03.ProductShop.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Lab\03.ProductShop\obj\Debug\netcoreapp3.1\03.ProductShop.genruntimeconfig.cache
