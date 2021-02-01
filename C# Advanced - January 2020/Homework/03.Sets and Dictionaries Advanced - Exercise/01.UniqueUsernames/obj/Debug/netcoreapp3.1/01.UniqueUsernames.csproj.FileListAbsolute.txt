@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.exe
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.deps.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.exe
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.deps.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.genruntimeconfig.cache

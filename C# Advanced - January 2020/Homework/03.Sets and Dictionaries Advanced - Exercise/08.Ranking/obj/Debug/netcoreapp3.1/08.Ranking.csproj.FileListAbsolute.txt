@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.exe
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.deps.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.runtimeconfig.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\bin\Debug\netcoreapp3.1\08.Ranking.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.genruntimeconfig.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\08.Ranking\obj\Debug\netcoreapp3.1\08.Ranking.csprojAssemblyReference.cache

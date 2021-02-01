@@ -1,0 +1,12 @@
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
+C:\Users\John Doe\source\repos\Sets and Dictionaries Advanced - Exercise\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.genruntimeconfig.cache
