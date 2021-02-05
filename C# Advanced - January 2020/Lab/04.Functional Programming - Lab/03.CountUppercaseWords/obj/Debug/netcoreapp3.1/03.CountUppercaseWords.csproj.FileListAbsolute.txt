@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.exe
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.deps.json
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.json
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Lab\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.exe
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.deps.json
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.genruntimeconfig.cache
