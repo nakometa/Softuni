@@ -1,0 +1,12 @@
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.exe
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.deps.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.runtimeconfig.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.dll
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.dll
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.genruntimeconfig.cache

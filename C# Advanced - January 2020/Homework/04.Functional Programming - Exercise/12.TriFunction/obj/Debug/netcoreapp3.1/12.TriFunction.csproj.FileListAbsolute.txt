@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\bin\Debug\netcoreapp3.1\12.TriFunction.exe
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\bin\Debug\netcoreapp3.1\12.TriFunction.deps.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\bin\Debug\netcoreapp3.1\12.TriFunction.runtimeconfig.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\bin\Debug\netcoreapp3.1\12.TriFunction.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\bin\Debug\netcoreapp3.1\12.TriFunction.dll
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\bin\Debug\netcoreapp3.1\12.TriFunction.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.dll
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\12.TriFunction\obj\Debug\netcoreapp3.1\12.TriFunction.genruntimeconfig.cache

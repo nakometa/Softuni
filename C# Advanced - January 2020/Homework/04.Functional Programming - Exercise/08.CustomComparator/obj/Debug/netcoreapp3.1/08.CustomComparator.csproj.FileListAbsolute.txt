@@ -1,0 +1,12 @@
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.exe
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.deps.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.runtimeconfig.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.dll
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\bin\Debug\netcoreapp3.1\08.CustomComparator.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.dll
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.pdb
+C:\Users\John Doe\source\repos\Functional Programming - Exercise\08.CustomComparator\obj\Debug\netcoreapp3.1\08.CustomComparator.genruntimeconfig.cache
