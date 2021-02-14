@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

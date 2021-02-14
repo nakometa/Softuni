@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.exe
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.deps.json
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.json
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.dll
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\bin\Debug\netcoreapp3.1\07.RawData.pdb
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.dll
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.pdb
+C:\Users\John Doe\source\repos\Defining Classes - Exercise\07.RawData\obj\Debug\netcoreapp3.1\07.RawData.genruntimeconfig.cache
