@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.exe
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.deps.json
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.runtimeconfig.json
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.dll
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.pdb
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.dll
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.pdb
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.genruntimeconfig.cache

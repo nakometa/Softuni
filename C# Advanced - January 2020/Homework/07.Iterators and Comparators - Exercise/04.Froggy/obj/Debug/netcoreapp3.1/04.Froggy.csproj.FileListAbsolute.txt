@@ -1,0 +1,13 @@
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.exe
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.deps.json
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.json
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.dev.json
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csprojAssemblyReference.cache
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfoInputs.cache
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfo.cs
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Users\John Doe\source\repos\Iterators and Comparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.genruntimeconfig.cache
